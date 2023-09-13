@@ -17,7 +17,7 @@ https://sptres.github.io/Portfolio-React/
 
 Deployment should be sufficient, but in case of deployment issues, please download the repository from https://github.com/sptres/Portfolio-React.
 
-- run 'npm install, then npm run start to run the React App on your local pc.
+- run 'npm install, then 'npm run start' to run the React App on your local pc.
 
 ## Contribution
 
