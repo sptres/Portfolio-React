@@ -4,8 +4,16 @@ import schedulerImage from '../assets/images/scheduler.png';
 import quizImage from '../assets/images/quiz.jpg';
 import weatherImage from '../assets/images/weather.jpg';
 import passwordImage from '../assets/images/password.png';
+import outdoorImage from '../assets/images/outdoor.jpeg';
 
 const projects = [
+  {
+    title: 'Hike & Seek Supplies',
+    description: 'MongoDB, ExpressJS, ReactJS, NodeJS',
+    image: outdoorImage,
+    liveLink: 'https://hikeseeksupplies-a93d77ad9476.herokuapp.com/',
+    repoLink: 'https://github.com/HaydenFelfe/workout_forum',
+  },
   {
     title: 'Work Day Scheduler',
     description: 'Server-side API/Javascript/CSS',

@@ -235,7 +235,8 @@ a + a {
 }
 
 .content-padding {
-  padding-top: 80px; /* Adjust the value as needed */
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 body,
