@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-React/static/css/main.adb425e2.css",
-    "main.js": "/Portfolio-React/static/js/main.83f46576.js",
+    "main.js": "/Portfolio-React/static/js/main.8aa60fb8.js",
     "static/media/scheduler.png": "/Portfolio-React/static/media/scheduler.c0a992681659f6630f93.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Portfolio-React/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/Portfolio-React/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -13,10 +13,10 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Portfolio-React/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/Portfolio-React/index.html",
     "main.adb425e2.css.map": "/Portfolio-React/static/css/main.adb425e2.css.map",
-    "main.83f46576.js.map": "/Portfolio-React/static/js/main.83f46576.js.map"
+    "main.8aa60fb8.js.map": "/Portfolio-React/static/js/main.8aa60fb8.js.map"
   },
   "entrypoints": [
     "static/css/main.adb425e2.css",
-    "static/js/main.83f46576.js"
+    "static/js/main.8aa60fb8.js"
   ]
 }
