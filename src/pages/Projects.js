@@ -12,7 +12,7 @@ const projects = [
     description: 'MongoDB, ExpressJS, ReactJS, NodeJS',
     image: outdoorImage,
     liveLink: 'https://hikeseeksupplies-a93d77ad9476.herokuapp.com/',
-    repoLink: 'https://github.com/HaydenFelfe/workout_forum',
+    repoLink: 'https://github.com/HaydenFelfe/Hike-Seek-Supplies',
   },
   {
     title: 'Work Day Scheduler',
